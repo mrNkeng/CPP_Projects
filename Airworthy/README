@@ -1,4 +1,4 @@
-Project Overview: 
+Project Overview:
 This project simulates the boarding procedures for Airworthy Airlines, aiming to optimize the boarding time. It reads passenger data from text files and performs boarding simulations based on two different priority algorithms. The output is the calculated boarding time for each algorithm, allowing a performance comparison.
 
 It achieves this by:
