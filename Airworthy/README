@@ -1,0 +1,11 @@
+Project Overview:
+This project simulates the boarding procedures for Airworthy Airlines, aiming to optimize the boarding time. It reads passenger data from text files and performs boarding simulations based on two different priority algorithms. The output is the calculated boarding time for each algorithm, allowing a performance comparison.
+
+It achieves this by:
+- Reading passenger data from text files using ifstream for robust file handling.
+- Utilizing a templated class, ArrayMaxHeap, to prioritize boarding based on two distinct algorithms.
+- Featuring a Passenger class that encapsulates essential passenger attributes like name, row number, and passenger type.
+- Implementing error checking to handle incorrect or missing data gracefully.
+- Offering performance metrics that calculate the time required for boarding, enabling a comparison between different boarding strategies.
+
+To run the project, simply clone the repository, compile, and execute SimulationProject.cpp. 
